@@ -4,9 +4,8 @@
 
 ## Installation (Debian / Ubuntu)
 
-Download the latest `.deb` from the releases or from this repository and install it:
+Download the latest `.deb` from the GitHub repository and install it:
 
 ```bash
-git clone https://github.com/HotdogHF/WEF.git
-cd WEF
+wget https://github.com/HotdogHF/WEF/raw/main/wef-deb.deb
 sudo apt install ./wef-deb.deb
