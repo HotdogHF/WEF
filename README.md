@@ -1,6 +1,6 @@
-'<WEF>'
+< WEF >
 
-**'<WEF>'** is a tiny terminal text editor written in Python using `curses`.
+**< WEF >** is a tiny terminal text editor written in Python using `curses`.
 
 ## Installation (Debian / Ubuntu)
 
